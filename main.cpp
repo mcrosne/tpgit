@@ -23,6 +23,7 @@ using namespace std;
 int main(int argc, char** argv) {
 
     cout<< "Bonjour" << endl;
+    cout<< "Bon jour" << endl;
     
     return 0;
 }
